@@ -73,7 +73,7 @@ I serve as a reviewer for leading venues like *NeurIPS, ICLR, ICML, AISTATS*, *C
 - Dongyang Li, Kunpeng Xie, Mingyang Wu, Yiwei Kong, Jiahua Tang, Haoyang Qin, **Chen Wei$^{\dagger}$**, Quanying Liu.  
   _MindPilot: Closed-loop Visual Stimulation Optimization_, Under Review at **NeurIPS**, 2025  
 - Dongyang Li, Haoyang Qin, Mingyang Wu, Jiahua Tang, **Chen Wei$^{\dagger}$**, Quanying Liu$^{\dagger}$.  
-  _BrainFLORA: Multimodal Neural Embeddings_, Under Review at **ACMMM**, 2025  
+  _BrainFLORA: Multimodal Neural Embeddings Uncovering Brain Concept Representation via Multimodal Neural Embeddings_, Under Review at **ACMMM**, 2025  
 - Dongyang Li, Haoyang Qin, Mingyang Wu, Jiahua Tang, **Chen Wei$^{\dagger}$**, Quanying Liu$^{\dagger}$.  
   _RealMind: Advancing Visual Decoding and Language Interaction via EEG Signals_, **ICME**, 2025  
 - Jiahua Tang, Song Wang, Jiachen Zou, **Chen Wei$^{\dagger}$**, Quanying Liu$^{\dagger}$**  
@@ -111,10 +111,13 @@ I serve as a reviewer for leading venues like *NeurIPS, ICLR, ICML, AISTATS*, *C
 - **Chen Wei***, Zhengyang Wang*, Zhichao Liang, Quanying Liu.  
   _COVID-19 Control Measures and Resource Constraints_, **medRxiv**, 2020   -->
 
-### 📚 Book Chapters
+### 📚 Books
+
+- Quanying Liu, Youzhi Qu, **Chen Wei**, Zhichao Liang.  
+  _Human Brain Intelligence and Artificial Intelligence_. Tsinghua University Press, 2025.  
 
 - Quanying Liu, **Chen Wei**, Youzhi Qu, Zhichao Liang.  
-  _Modelling and Controlling System Dynamics of **the** Brain: An Intersection of Machine Learning and Control Theory_, in **Systems Neuroscience**, Springer Nature, 2024
+  _Modelling and Controlling System Dynamics of the Brain: An Intersection of Machine Learning and Control Theory_, in **Systems Neuroscience**, Springer Nature, 2024
 
 ---
 
