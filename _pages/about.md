@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Chen Wei, a joint Ph.D. candidate in Psychology at the University of Birmingham and Southern University of Science and Technology, expected to graduate in October 2025. My research focuses on **modeling individual mental representations and behavioral intervention**, integrating generative artificial intelligence with active experimental design to uncover and model individual differences in perception, memory, decision-making, aesthetics, and emotion, as well as to explore computational mechanisms for behavioral intervention. More recently, my work has extended to developing self-evolving AI that learns from autonomously designed interactive environments, leveraging large language models to develop **mental world models**. This involves using active experimental design to elicit richer human feedback and multi-agent environments to simulate social interactions, aiming to deeply understand human minds and intervene in decision-making and behaviour in everyday settings. 
+I am Chen, and I received my Ph.D. from the joint doctoral program between the University of Birmingham and Southern University of Science and Technology. During my doctoral studies, my research focused on **modeling individual psychological representations and behavioral interventions**. By integrating generative artificial intelligence with active experimental design, I investigated and characterized individual differences in perception, memory, decision-making, and emotion, and explored the computational mechanisms underlying behavioral change.
 
+More recently, my work has expanded toward **self-evolving human--AI interaction systems**. These systems learn by autonomously designing their own interactive environments and leverage large language models to construct **psychological world models**. In this process, I incorporate **multimodal neural and behavioral feedback** to replace traditional language-based human feedback, enabling the model to more directly capture latent cognitive and affective states. By combining active experiment design with multi-agent interaction environments to simulate complex social scenarios, I aim to achieve a deeper understanding of the human mind and to advance AI systems capable of supporting decision-making and behavioral intervention in everyday contexts.
 
-I am currently seeking postdoctoral or related research positions. If you are interested in academic collaboration or have relevant opportunities in AI and cognitive sciences, please feel free to contact me at [chen.wei.hdg@gmail.com](mailto:chen.wei.hdg@gmail.com).
+I am currently founding **全域智能 (Omni-intelligence)**, a BCI foundation model company. If you are interested in academic collaboration, industry partnerships, or have relevant opportunities in AI and cognitive sciences, please feel free to contact me at [chen.wei.hdg@gmail.com](mailto:chen.wei.hdg@gmail.com).
 
-📄 **[Download my CV (PDF)]({{ site.baseurl }}/assets/files/CV_ChenWei.pdf)**
+📄 **[Download my CV (PDF)]({{ site.baseurl }}/assets/files/CV_ChenWei.pdf)** | **[下载中文简历 (PDF)]({{ site.baseurl }}/assets/files/CV_魏晨.pdf)**
 
-I graduated from Southwestern University of Finance and Economics with a bachelor's degree in Finance, and I am currently pursuing a joint **Ph.D. in Psychology** at **University of Birmingham** and **Southern University of Science and Technology (SUSTech)**, co-advised by Prof. Dietmar Heinke and Prof. Quanying Liu. 
-I have published over **15 first-/corresponding-author papers** in top-tier conferences and journals, such as *NeurIPS, ICML, IJCAI, ACMMM, CogSci, The Innovation* and *iScience*, with over **510 citations** and an **H-index of 8**.
+I graduated from Southwestern University of Finance and Economics with a bachelor's degree in Finance, and I received my **Ph.D. in Psychology** from the joint doctoral program between **University of Birmingham** and **Southern University of Science and Technology (SUSTech)**, co-advised by Prof. Dietmar Heinke and Prof. Quanying Liu. 
+I have published **20+ first-/corresponding-author papers** in top-tier conferences and journals, such as *Nature Biomedical Engineering, NeurIPS, ICML, ICLR, IJCAI, ACMMM, CogSci, The Innovation* and *iScience*, with over **593 citations** and an **H-index of 8**.
 I serve as a reviewer for leading venues like *NeurIPS, ICLR, ICML, AISTATS*, *CogSci* and serve as a guest editor for *Tsinghua Science and Technology* on a special issue on foundation models in brain science.
 
 <!-- ---
@@ -58,26 +59,26 @@ I serve as a reviewer for leading venues like *NeurIPS, ICLR, ICML, AISTATS*, *C
 ### 👥 Individual Variability of Mental Representations
 
 - Haotian Deng, Sitian Wang, Ruxin Wang, **Chen Wei$^{\dagger}$**, Quanying Liu$^{\dagger}$.  
-  _When Proxy Agents Disagree, Do Humans Mirror? Manipulating Human Behavior in Moral Dilemmas through Agents_, Under Review at **AAAI**, 2026
+  _When Proxy Agents Disagree, Do Humans Mirror? Manipulating Human Behavior in Moral Dilemmas through Agents_, **AAAI** Artificial Intelligence for Social Impact Track, 2026
 - Chi Zhang\*, Yulang Gao\*, Jiachen Zou, **Chen Wei$^{\dagger}$**, Quanying Liu$^{\dagger}$.  
-  _When Agents Steer Human Perception: How AI-Selected Images Can Covertly Alter Judgment Disagreements_, Under Review at **AAAI**, 2026
+  _When Agents Steer Human Perception: How AI-Selected Images Can Covertly Alter Judgment Disagreements_, Under Review at **CVPR**, 2026
 - Haotian Deng, Sitian Wang, Ruxin Wang, **Chen Wei$^{\dagger}$**, Quanying Liu$^{\dagger}$.  
-  _When LLM Agents Disagree, Do Humans Mirror? Behavioral Comparisons on Moral Dilemmas_, **MIND (Oral)**, 2025
+  _When LLM Agents Disagree, Do Humans Mirror? Behavioral Comparisons on Moral Dilemmas_, **MIND (Oral, Best Paper Finalist)**, 2025
 - **Chen Wei\***, Chi Zhang\*, Jiachen Zou, Haotian Deng, Dietmar Heinke, Quanying Liu.  
   _Synthesizing Images on Perceptual Boundaries of ANNs for Uncovering and Manipulating Human Perceptual Variability_, **ICML**, 2025  
-- Haotian Deng\*, Chi Zhang\*, **Chen Wei$^{\dagger}$**, Quanying Liu$^{\dagger}$.  
-  _Synthesizing Images on Perceptual Boundaries o ANNs for Uncovering Human Perceptual Variability on Facial Expressions_, **IJCNN**, 2025  
+- Haotian Deng, Chi Zhang, **Chen Wei$^{\dagger}$**, Quanying Liu$^{\dagger}$.  
+  _Synthesizing Images on Perceptual Boundaries of ANNs for Uncovering Human Perceptual Variability on Facial Expressions_, **IJCNN (Oral)**, 2025  
 
 ### 👁️ Neural Visual Decoding & Closed-Loop Control
 
-- Dongyang Li, Kunpeng Xie, Mingyang Wu, Yiwei Kong, Jiahua Tang, Haoyang Qin, **Chen Wei$^{\dagger}$**, Quanying Liu.  
-  _MindPilot: Closed-loop Visual Stimulation Optimization_, Under Review at **NeurIPS**, 2025  
-- Dongyang Li, Haoyang Qin, Mingyang Wu, Jiahua Tang, **Chen Wei$^{\dagger}$**, Quanying Liu$^{\dagger}$.  
-  _BrainFLORA: Multimodal Neural Embeddings Uncovering Brain Concept Representation via Multimodal Neural Embeddings_, Under Review at **ACMMM**, 2025  
+- Dongyang Li, Kunpeng Xie, Mingyang Wu, Yiwei Kong, Jiahua Tang, Haoyang Qin, **Chen Wei$^{\dagger}$**, Quanying Liu$^{\dagger}$.  
+  _MindPilot: Closed-loop Visual Stimulation Optimization for Brain Modulation with EEG-guided Diffusion_, Under Review at **ICLR**, 2026
+- Dongyang Li, Haoyang Qin, Mingyang Wu, **Chen Wei$^{\dagger}$**, Quanying Liu$^{\dagger}$.  
+  _BrainFLORA: Uncovering Brain Concept Representation via Multimodal Neural Embeddings_, **ACMMM (Oral)**, 2025  
 - Dongyang Li, Haoyang Qin, Mingyang Wu, Jiahua Tang, **Chen Wei$^{\dagger}$**, Quanying Liu$^{\dagger}$.  
   _RealMind: Advancing Visual Decoding and Language Interaction via EEG Signals_, **ICME**, 2025  
-- Jiahua Tang, Song Wang, Jiachen Zou, **Chen Wei$^{\dagger}$**, Quanying Liu$^{\dagger}$**  
-  _Uncovering the EEG Temporal Representation of Low-dimensional Object Properties_, **IJCNN**, 2025
+- Jiahua Tang, Song Wang, Jiachen Zou, **Chen Wei$^{\dagger}$**, Quanying Liu$^{\dagger}$.  
+  _Uncovering the EEG Temporal Representation of Low-dimensional Object Properties_, **IJCNN (Oral)**, 2025
 - Dongyang Li\*, **Chen Wei\***, Shiying Li, Jiachen Zou, Quanying Liu.  
   _Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion_, **NeurIPS**, 2024  
 
@@ -87,29 +88,36 @@ I serve as a reviewer for leading venues like *NeurIPS, ICLR, ICML, AISTATS*, *C
   _AI-Driven Novel Paradigms for Psychological Research_, Under Review at **Advances in Psychological Science**, 2025  
 - Youzhi Qu, Penghui Du, Wenxin Che, **Chen Wei**, Quanying Liu, et al.  
   _Promoting interactions between cognitive science and large language models_, **The Innovation**, 2024  
-- Youzhi Qu\*, **Chen Wei\***, Quanying Liu, et al.  
+- Youzhi Qu\*, **Chen Wei\***, Penghui Du, Wenxin Che, Chi Zhang, Wanli Ouyang, Yatao Bian, Feiyang Xu, Bin Hu, Kai Du, et al.  
   _Integration of cognitive tasks into artificial general intelligence test for large models_, **iScience**, 2024
+
+### 🧮 Theoretical AI-Brain Alignment & Generalization
+
+- Junjie Yu, Wenxiao Ma, **Chen Wei**, Jianyu Zhang, Haotian Deng, Zihan Deng, Yi Guo, Quanying Liu.  
+  _Scale-Invariance in AI Representation Predicts AI-Brain Alignment_, Under Review at **ICLR**, 2026
+- Junjie Yu, Zhuoli Ouyang, Haotian Deng, **Chen Wei**, Wenxiao Ma, Jianyu Zhang, Zihan Deng, Yi Guo, Quanying Liu.  
+  _Generalization Error Bound via Embedding Dimension and Network Lipschitz Constant_, Under Review at **ICLR**, 2026
 
 ### 📈 EEG Signal Processing & Inverse Problem
 
-- Song Wang\*, Kexin Lou\*, **Chen Wei\***, Quanying Liu, et al.  
-  _Reconstructing Spatiotemporal Dynamics Using Source Imaging_, Under Review at **Nat. Biomed. Eng.**, 2025  
+- Song Wang\*, Kexin Lou\*, **Chen Wei\***, Zhiyuan Sheng, Jiahao Tang, Kaining Peng, Shuhao Mei, Liang Chen, Dongfeng Gu, Quanying Liu.  
+  _Reconstructing whole-brain spatiotemporal dynamics using EEG/MEG Source Imaging with Geometric Constraints_, **Nature Biomedical Engineering**, Accepted, 2025  
 - Song Wang, **Chen Wei**, Kexin Lou, Dongfeng Gu, Quanying Liu.  
-  _EEG/MEG Source Imaging with Geometric-Informed Basis Functions_, **EMBC**, 2024  
+  _Advancing EEG/MEG Source Imaging with Geometric-Informed Basis Functions_, **EMBC**, 2024  
 - Junjie Yu, Chenyi Li, Kexin Lou, **Chen Wei**, Quanying Liu.  
   _Embedding decomposition for artifacts removal in EEG signals_, **Journal of Neural Engineering**, 2022  
-- Haoming Zhang\*, Mingqi Zhao\*, **Chen Wei**, Quanying Liu, et al.  
+- Haoming Zhang\*, Mingqi Zhao\*, **Chen Wei**, Dante Mantini, Zherui Li, Quanying Liu.  
   _EEGdenoiseNet: A benchmark dataset for deep learning solutions of EEG denoising_, **Journal of Neural Engineering**, 2021  
-- **Chen Wei\***, Kexin Lou\*, Quanying Liu, et al.  
-  _Edge Sparse Basis Network for EEG Source Localization_, **IJCNN (Oral)**, 2021  
-- Haoming Zhang\*, **Chen Wei\***, Quanying Liu, et al.  
+- **Chen Wei\***, Kexin Lou\*, Zhengyang Wang, Mingqi Zhao, Dante Mantini, Quanying Liu.  
+  _Edge Sparse Basis Network: A Deep Learning Framework for EEG Source Localization_, **IJCNN (Oral)**, 2021  
+- Haoming Zhang\*, **Chen Wei\***, Mingqi Zhao, Quanying Liu, Haiyan Wu.  
   _A novel convolutional neural network model to remove muscle artifacts from EEG_, **ICASSP**, 2021  
 
 
 <!-- ### 📌 Other
 
-- **Chen Wei***, Zhengyang Wang*, Zhichao Liang, Quanying Liu.  
-  _COVID-19 Control Measures and Resource Constraints_, **medRxiv**, 2020   -->
+<!-- - **Chen Wei\***, Zhengyang Wang\*, Zhichao Liang, Quanying Liu.  
+  _The focus and timing of COVID-19 pandemic control measures under healthcare resource constraints_, **medRxiv**, 2020 -->
 
 ### 📚 Books
 
@@ -168,6 +176,9 @@ I serve as a reviewer for leading venues like *NeurIPS, ICLR, ICML, AISTATS*, *C
 ---
 
 ## 💼 Work Experience
+
+- **Founder** (2025–present)  
+  全域智能 (Omni-intelligence) — BCI Foundation Model Company
 
 - **Research Assistant** (2019–2021)  
   Southern University of Science and Technology, China  
